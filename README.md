@@ -18,4 +18,4 @@
   <li>Приложение работает через localStorage</li>
 </ul>
 
-ссылка на сайт: https://konstantintz.github.io/Online_airport_schedule/
+ссылка на сайт(страница администратора): https://konstantintz.github.io/Online_airport_schedule/
